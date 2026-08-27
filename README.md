@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/PhanVanTranh/Algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PhanVanTranh/Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PhanVanTranh/Algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PhanVanTranh/Algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
