@@ -1,3 +1,10 @@
+<div align="center">
+  
+![Repo Traffic](https://komarev.com/ghpvc/?username=algorithm&label=Repo+Traffic&color=orange&style=flat-square)
+
+</div>
+
+
 # Algorithm
 
 
