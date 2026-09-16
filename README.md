@@ -29,6 +29,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PhanVanTranh/Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/PhanVanTranh/Algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0389-find-the-difference](https://github.com/PhanVanTranh/Algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/PhanVanTranh/Algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -48,6 +49,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PhanVanTranh/Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0389-find-the-difference](https://github.com/PhanVanTranh/Algorithm/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -56,5 +58,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PhanVanTranh/Algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/PhanVanTranh/Algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
